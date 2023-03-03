@@ -1,0 +1,2 @@
+../zello-servers/ls-cloud/zellols.conf.zes
+../zello-servers/ls-cloud/zellols.conf
