@@ -1,4 +1,3 @@
 ../zello-servers/sn//zellosn.conf.zw
 ../zello-servers/sn//zellosn.conf
-../zello-servers/sn//zellosn.conf.virt
 ../zello-servers/sn//zellosn.conf.zes
